@@ -1,0 +1,8 @@
+# Block local temporary databases and actual output spreadsheets
+*.db
+*.xlsx
+*.csv
+
+# Block Python compiler cache folders
+__pycache__/
+.venv/
